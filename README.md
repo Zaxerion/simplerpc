@@ -7,7 +7,8 @@ create repl <br />
 import from GitHub\
 paste link (https://github.com/Zaxerion/simplerpc/)  <br />
 import\
-create new secret named SECRET fill with token auth  <br />
+create new secret named SECRET fill with discord token
+(To get discord tokens, you can search for them on google or yotube.)  <br />
 change config.js with whatever you want\
 run code\
 copy the link that appears in the web view
