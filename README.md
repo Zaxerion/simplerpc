@@ -1,5 +1,7 @@
 # simple custom discord status 24/7
 
+![image](https://github.com/Zaxerion/simplerpc/assets/24669898/1aebfca9-8b28-4a01-96d9-9b8f4a4ab1ad) <br />
+
 import code on replit\
 change config.js with whatever you want\
 run code\
