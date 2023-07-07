@@ -2,8 +2,8 @@
 
 ![image](https://github.com/Zaxerion/simplerpc/assets/24669898/1aebfca9-8b28-4a01-96d9-9b8f4a4ab1ad) <br />
 
-register on replit (https://replit.com/)\
-create new repl\
+register on replit (https://replit.com/) <br />
+create new repl <br />
 import code\
 change config.js with whatever you want\
 create new secret named SECRET fill with token auth  <br />
