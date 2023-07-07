@@ -4,6 +4,7 @@
 
 import code on replit\
 change config.js with whatever you want\
+create new secret named SECRET fill with token auth  <br />
 run code\
 copy the link that appears in the web view
 
