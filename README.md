@@ -5,11 +5,11 @@ change config.js with whatever you want\
 run code\
 copy the link that appears in the web view
 
-\register https://cron-job.org/en/
-\create cronjob (https://console.cron-job.org/jobs/create)
-fill the url with the link you copied,
-change http:// to https://
-enable execution of the cronjob fails
+register https://cron-job.org/en/\
+create cronjob (https://console.cron-job.org/jobs/create)\
+fill the url with the link you copied,\
+change http:// to https://\
+enable execution of the cronjob fails\
 save
 
 You can see all document here
