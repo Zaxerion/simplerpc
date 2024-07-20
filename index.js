@@ -1,6 +1,7 @@
+require('dotenv').config();
 const
   { Client } = require('discord.js-selfbot-v13'),
-  client = new Client({checkUpdate: false,}),
+  client = new Client({ checkUpdate: false, }),
   reloadPresence = require("./config.js"),
   keepAlive = require('./keep_alive.js');
 
@@ -13,8 +14,8 @@ if (!process.env.TOKEN) {
 
 client.login(process.env.TOKEN);
 
-  console.clear();
-  client.on("ready", async () => {
-        global.startTime = new Date();
-        reloadPresence(client);
-    })
+// console.clear();
+client.on("ready", async () => {
+  global.startTime = new Date();
+  reloadPresence(client);
+})

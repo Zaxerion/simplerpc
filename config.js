@@ -6,7 +6,7 @@ function reloadPresence(client) {
       //more command https://discordjs-self-v13.netlify.app/#/docs/docs/main/class/RichPresence or https://github.com/aiko-chan-ai/discord.js-selfbot-v13/blob/main/Document/RichPresence.md
         .setApplicationId("1119170929747050506") //You can replace with your own bot application id
         .setType("PLAYING") //PLAYING, STREAMING, LISTENING
-        .setName("MIAW") //name of your activity
+        .setName("Dead") //name of your activity
         .setDetails("miawww...") //detail activity
         .setStartTimestamp(global.startTime)
         .setAssetsLargeImage("mp:icons/1120755328267583559/a65ec7583c9986ea1faf8c3f02259916.webp")
